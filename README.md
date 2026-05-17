@@ -1,53 +1,51 @@
-<!-- 🌌 CINEMATIC PRO BANNER -->
+<!-- ⚡ SUBTLE PROFESSIONAL HEADER -->
 <p align="center">
-  <img src="https://github.com/Wahi-ur-rehman/Wahi-ur-rehman/blob/main/pro_banner.png?raw=true" alt="Wahi Neural Nexus" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=WAHI%20UR%20REHMAN&fontSize=50&fontAlignY=35&theme=tokyonight" />
 </p>
 
-<!-- ⌨️ DYNAMIC TERMINAL INTRO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00FFFB&center=true&vCenter=true&width=600&lines=AI+DEVELOPER+%7C+AUTOMATION+SPECIALIST;3D+VISUALS+%7C+SYSTEM+ARCHITECTURE;EXECUTING+NEURAL+MODELS...;SYSTEM+STATUS:+OPTIMIZED" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFB&center=true&vCenter=true&width=600&lines=AI+DEVELOPER+%7C+AUTOMATION+SPECIALIST;3D+VISUALS+%7C+SYSTEM+ARCHITECTURE;EXECUTING+NEURAL+MODELS...;SYSTEM+STATUS:+OPTIMIZED" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge&logo=statuspage&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCATION-PAKISTAN-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/VIBE-HACKER-black?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ---
 
-### 🌑 The Core Stack (Universal Synthesis)
+### 🌑 Engineering Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,js,react,threejs,tailwind,framer,vite,firebase,git,github,nextjs,docker,mongodb,aws,linux" />
 </p>
 
-- **Front-end Alchemy:** React 19, R3F (Three.js), Framer Motion, Tailwind CSS v4.
-- **Intelligence Layer:** Google Gemini, OpenAI, LightGBM, Python 3.11.
-- **Infrastructure:** Docker, Firebase, MetaTrader 5, AWS (EC2/S3).
+- **Front-end / 3D:** React 19, Three.js (R3F), Framer Motion, Tailwind CSS v4.
+- **AI / Automation:** Google Gemini, OpenAI, LightGBM, Python 3.11.
+- **Infrastructure:** Docker, Firebase, MetaTrader 5, AWS.
 
 ---
 
-### 🚀 High-Impact Sub-Systems (Repositories)
+### 📂 Operational Repositories
 
 <div align="center">
 
-| System | Technology Architecture | Operational Status |
-| :--- | :--- | :--- |
-| **[🤖 ApexScalp AI](https://github.com/Wahi-ur-rehman/bot)** | `Python` `LightGBM` `AI` | <img src="https://img.shields.io/badge/LIVE-OPERATIONAL-success?style=flat-square" /> |
-| **[🌌 3D AI Portfolio](https://github.com/Wahi-ur-rehman/Ai-portfolio)** | `Three.js` `TS` `Motion` | <img src="https://img.shields.io/badge/LIVE-SYNCED-blue?style=flat-square" /> |
-| **[🍎 FreshPlan AI](https://github.com/Wahi-ur-rehman/FreshPlan)** | `Vite` `Firebase` `Gemini` | <img src="https://img.shields.io/badge/SYNC-IN--PROGRESS-yellow?style=flat-square" /> |
+| Protocol | Tech Architecture | View | Status |
+| :--- | :--- | :--- | :--- |
+| **🤖 ApexScalp AI** | `Python` `LightGBM` | [Repo](https://github.com/Wahi-ur-rehman/bot) | <img src="https://img.shields.io/badge/LIVE-OPERATIONAL-success?style=flat-square" /> |
+| **🌌 3D AI Portfolio** | `Three.js` `TS` | [Demo](https://ai-portfolio-seven-liart.vercel.app/) | <img src="https://img.shields.io/badge/LIVE-SYNCED-blue?style=flat-square" /> |
+| **🍎 FreshPlan AI** | `Vite` `Firebase` | [Repo](https://github.com/Wahi-ur-rehman/FreshPlan) | <img src="https://img.shields.io/badge/SYNC-IN--PROGRESS-yellow?style=flat-square" /> |
 
 </div>
 
 ---
 
-### 📈 Intelligence Metrics & Achievements
+### 📈 Intelligence Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wahi-ur-rehman&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Wahi-ur-rehman&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
 </p>
 
 <table align="center">
@@ -57,13 +55,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahi-ur-rehman&theme=tokyonight&hide_border=true&background=0D1117" width="480" />
-</p>
-
 ---
 
-### 🐍 Contribution Artifacts (Snake)
+### 🎮 Contribution Pulse (Snake)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -71,25 +65,31 @@
 
 ---
 
-### 🎵 Neural Transmission (Spotify)
+### 🛰️ Connect With The Nexus (Contact)
+
+<div align="center">
+
+| Asset | Channel | Signal |
+| :--- | :--- | :--- |
+| <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> **LinkedIn** | [Professional signals](https://www.linkedin.com/in/wahi-ur-rehman/) | `Open to Network` |
+| <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="20"/> **Email** | [Direct Transmission](mailto:wahiurrehman@example.com) | `Fast Response` |
+| <img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="20"/> **Portfolio** | [Visual Experience](https://ai-portfolio-seven-liart.vercel.app/) | `Live Nexus` |
+
+</div>
+
+---
+
+### 🎵 Neural Link (Currently Playing)
 <p align="center">
   <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00fffb&bar_color=00fffb&bar_color_active=00fffb" alt="Spotify" />
 </p>
 
 ---
 
-### 🛰️ Connect With The Nexus
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/wahi-ur-rehman/"><img src="https://img.shields.io/badge/LinkedIn-SIGNALS-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://ai-portfolio-seven-liart.vercel.app/"><img src="https://img.shields.io/badge/Nexus-PORTFOLIO-cyan?style=for-the-badge&logo=sphere" /></a>
-  <a href="mailto:wahiurrehman@example.com"><img src="https://img.shields.io/badge/Signals-EMAIL-magenta?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=SCAN%20COMPLETE%20:%20OPTIMIZED&fontSize=25&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=TRANSMISSION%20COMPLETE&fontSize=30&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wahi-ur-rehman&color=00fffb&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Wahi-ur-rehman&color=00fffb&style=plastic&label=TOTAL+TRAFFIC+DETECTED" alt="Views" />
 </p>
