@@ -48,12 +48,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Wahi-ur-rehman&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Wahi-ur-rehman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="400" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahi-ur-rehman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300" /></td>
-  </tr>
-</table>
+
 
 ---
 
