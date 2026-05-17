@@ -66,9 +66,7 @@
   <img src="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-> [!NOTE]
-> **Fix for the failing check shown in your screenshot:**
-> Go to your repository **Settings > Actions > General > Workflow permissions** and select **"Read and write permissions"**. This allows the snake to update your profil.
+
 
 ---
 
