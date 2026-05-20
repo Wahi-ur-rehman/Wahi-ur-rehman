@@ -26,51 +26,11 @@
 
 <div align="left">
 
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-👨‍💻 Name: Wahi Ur Rehman
-🚀 Role: Full Stack Developer
-🌍 Based In: Pakistan 🇵🇰
-⚡ Passion: Turning ideas into reality
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💡 Current Mission:
-  → Building modern web experiences
-  → Exploring Artificial Intelligence
-  → Designing futuristic UIs
-  → Creating impactful projects
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🧠 Currently Mastering:
-  ✔ Advanced Backend Architecture
-  ✔ Cloud & DevOps ☁️
-  ✔ Scalable Systems ⚙️
-  ✔ AI-Powered Applications 🤖
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 Developer Mindset:
-  "I don't just build websites.
-   I build experiences people remember."
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-☕ Status:
-  Debugging life one commit at a time...
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<br>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Wahi Ur Rehman
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Code+.+Create+.+Innovate+⚡;Building+The+Future+One+Project+At+A+Time+🚀;AI+Enthusiast+🤖;Open+Source+Lover+💙;Always+Learning+Something+New+🌱"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+⚡;AI+Explorer+🤖;UI%2FUX+Enthusiast+🎨;Building+Cool+Stuff+For+The+Internet+🚀;Open+Source+Lover+💙" />
 
 </div>
 
@@ -78,18 +38,108 @@
 
 <div align="center">
 
-### ⚡ Quick Facts
-
-| 🧠 Trait | 🚀 Details |
-|---|---|
-| 💻 Favorite Stack | MERN + Next.js |
-| 🎨 Design Style | Clean + Futuristic |
-| 🌙 Coding Time | Late Night Productivity |
-| ☕ Fuel | Coffee + Music |
-| 🎮 Fun Side | Gaming & Tech Exploration |
-| 🔥 Dream | Build something legendary |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Wahi%20Ur%20Rehman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20.%20Create%20.%20Innovate&descAlignY=58"/>
 
 </div>
+
+---
+
+## 🧠 Who Am I?
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Wahi Ur Rehman";
+    this.location = "Pakistan 🇵🇰";
+    this.role = "Full Stack Developer";
+    this.learning = [
+      "Artificial Intelligence",
+      "Cloud Computing",
+      "DevOps",
+      "System Design"
+    ];
+    this.hobbies = [
+      "Building Projects 🚀",
+      "Gaming 🎮",
+      "UI Experiments 🎨",
+      "Late Night Coding 🌙"
+    ];
+  }
+
+  introduce() {
+    return "Turning ideas into digital reality ⚡";
+  }
+}
+
+const me = new Developer();
+
+console.log(me.introduce());
+```
+
+<br>
+
+---
+
+## ⚡ Developer Energy
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wahi-ur-rehman&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🎯 Current Status
+
+<div align="center">
+
+```diff
++ Learning AI & Advanced Backend
+# Building Cool Projects
+@@ Exploring Futuristic UI Designs @@
+! Grinding Every Day 🚀
+```
+
+</div>
+
+---
+
+## 🌌 Philosophy
+
+<div align="center">
+
+> ### “I believe great software should feel like magic.”
+
+</div>
+
+---
+
+## 🎵 Coding Mood
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w4zcyn4e4j5z5m7s4xv6b4v6xa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/>
+
+</div>
+
+---
+
+## 🕹️ Fun Terminal
+
+```bash
+> initializing developer profile...
+
+✔ creativity loaded
+✔ coffee detected
+✔ bug fixing mode activated
+✔ futuristic UI enabled
+✔ deploying awesome ideas...
+
+status: ONLINE 🚀
+```
 
 ---
 
