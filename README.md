@@ -4,134 +4,43 @@
 
 <div align="center">
 
-<p align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Wahi%20Ur%20Rehman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20.%20Create%20.%20Innovate&descAlignY=58"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=260&section=header&text=Wahi%20Ur%20Rehman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Cool%20Things%20For%20The%20Internet%20🚀&descAlignY=60"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Wahi-ur-rehman&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Wahi-ur-rehman&label=Visitors&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Wahi-ur-rehman?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/Wahi-ur-rehman?style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/github/stars/Wahi-ur-rehman?style=for-the-badge&color=yellow" />
-
-</div>
-
-
-# 🌌 About Me
-
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<div align="left">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Wahi Ur Rehman
-
-# 🌌 About The Developer
-
-<div align="center">
-
-<img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img src="https://img.shields.io/github/stars/Wahi-ur-rehman?style=for-the-badge&color=yellow"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 👨‍💻 About Me
 
-### ⚡ Turning ideas into immersive digital experiences
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-</div>
+### ⚡ Hey, I'm Wahi Ur Rehman
+
+I build modern web experiences with clean UI, smooth interactions, and scalable backend systems.
+
+- 🚀 Full Stack Developer
+- 🤖 Exploring Artificial Intelligence
+- 🎨 Obsessed with futuristic UI/UX
+- ☁️ Learning Cloud + DevOps
+- 🌌 Turning ideas into digital experiences
 
 <br>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+### 🎯 Current Focus
 
-### 🚀 Currently Exploring
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Computing
-- ⚙️ Advanced Backend Systems
-- 🎨 Futuristic UI/UX
-- 🚀 Scalable Web Apps
-
-### 🎯 Interests
-- 💻 Full Stack Development
-- 🧠 Tech Innovation
-- 🌌 Creative Interfaces
-- 🎮 Gaming & Experiments
-- 🔥 Building Cool Stuff
-
-</td>
-
-<td width="50%" align="left">
-
-### ☕ Daily Fuel
-- Coffee
-- Music
-- Late-night coding sessions
-
-### 🌙 Developer Personality
-- Loves clean UI
-- Obsessed with smooth animations
-- Enjoys solving impossible bugs
-- Always experimenting with new tech
-
-### 🛸 Fun Fact
-> Sometimes I fix bugs faster by staring at them dramatically.
-
-</td>
-</tr>
-</table>
-
-## 🎯 Current Status
-
-<div align="center">
-
-```diff
-+ Learning AI & Advanced Backend
-# Building Cool Projects
-@@ Exploring Futuristic UI Designs @@
-! Grinding Every Day 🚀
-```
-
-</div>
-
-
-## 🌌 Philosophy
-
-<div align="center">
-
-> ### “I believe great software should feel like magic.”
-
-</div>
-
----
-
-## 🎵 Coding Mood
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w4zcyn4e4j5z5m7s4xv6b4v6xa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/>
-
-</div>
-
----
-
-## 🕹️ Fun Terminal
-
-```bash
-> initializing developer profile...
-
-✔ creativity loaded
-✔ coffee detected
-✔ bug fixing mode activated
-✔ futuristic UI enabled
-✔ deploying awesome ideas...
-
-status: ONLINE 🚀
-```
+- Advanced Backend Architecture
+- AI-Powered Applications
+- Scalable Web Apps
+- Performance Optimization
+- Creative Frontend Experiences
 
 ---
 
@@ -139,54 +48,7 @@ status: ONLINE 🚀
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,cpp,tailwind,bootstrap,git,github,vscode,linux,figma&perline=10" />
-
-</div>
-
----
-
-# 🎨 Frontend Magic
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
-
-</div>
-
----
-
-# ⚙️ Backend Power
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-</div>
-
----
-
-# 🧠 Currently Exploring
-
-<div align="center">
-
-| 🚀 Technology | 🌟 Progress |
-|---|---|
-| Artificial Intelligence | ██████████░░ 80% |
-| DevOps | ███████░░░░░ 60% |
-| Cloud Computing | ████████░░░ 70% |
-| System Design | ██████░░░░░ 55% |
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,cpp,tailwind,git,github,vscode,linux,figma&perline=8"/>
 
 </div>
 
@@ -196,9 +58,9 @@ status: ONLINE 🚀
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wahi-ur-rehman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wahi-ur-rehman&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahi-ur-rehman&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahi-ur-rehman&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -212,7 +74,7 @@ status: ONLINE 🚀
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -226,172 +88,162 @@ status: ONLINE 🚀
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Wahi-ur-rehman&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Wahi-ur-rehman&theme=algolia&no-frame=true&margin-w=10"/>
 
 </div>
 
 ---
 
-# 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-
-# 🎮 Fun Zone
+# 🐍 Contribution Snake
 
 <div align="center">
 
-## 🎯 Random Developer Quote
+<img src="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🎮 Interactive Mini Game — Find The Safe Deploy 🚀
+
+<div align="center">
+
+## 🕹️ Rules
+
+Only ONE deploy button is safe.  
+Choose wisely.
+
+| Deploy Option | Result |
+|---|---|
+| [🚀 Deploy A](#fail) | ❓ |
+| [🚀 Deploy B](#winner) | ❓ |
+| [🚀 Deploy C](#fail) | ❓ |
+
+</div>
+
+---
+
+<div id="winner">
+
+# 🏆 DEPLOY SUCCESSFUL
+
+<div align="center">
+
+## ✅ Production survived.
+
+### 🎉 Easter Egg Unlocked:
+
+```txt
+while(alive){
+   eat();
+   sleep();
+   code();
+   repeat();
+}
+```
+
+### 🚀 Secret Achievement:
+"Bug Destroyer Level 99"
+
+<img width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+</div>
+
+</div>
+
+---
+
+<div id="fail">
+
+# 💀 Production Crashed
+
+<div align="center">
+
+### ❌ Congratulations.
+
+You deployed on Friday evening.
+
+### ☕ The bugs are now part of the architecture.
+
+### 🔥 Your teammates are typing...
+
+<img width="250" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"/>
+
+</div>
+
+</div>
+
+---
+
+# 🎵 Coding Vibes
+
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<br><br>
-
-## 😂 Daily Coding Joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
 </div>
 
 ---
-
-# 🎵 Vibing While Coding
-
-<div align="center">
-
-<img src="https://novatorem.vercel.app/api/spotify"/>
-
-</div>
-
----
-# 🎮 Mini Game — Catch The Bug 🐛
-
-<div align="center">
-
-## 🕹️ Your Mission
-
-A bug escaped production.  
-Can you catch it before users notice? 👀
-
-⬜ ⬜ ⬜ ⬜ ⬜  
-⬜ 🐛 ⬜ ⬜ ⬜  
-⬜ ⬜ ⬜ ⬜ ⬜  
-⬜ ⬜ ⬜ 💻 ⬜  
-⬜ ⬜ ⬜ ⬜ ⬜  
-
-### Choose Your Move
-
-| Action | Result |
-|---|---|
-| 🧹 Debug Carefully | 70% Success |
-| ☕ Drink Coffee First | +200 Coding Power |
-| 🚀 Push To Production | Dangerous Move ⚠️ |
-| 🔥 Blame The Backend | Classic Developer Strategy |
-
----
-
-### 🎯 Hidden Achievement
-
-✅ You unlocked:  
-**"Professional Bug Hunter"**
-
-</div>
-
----
-
-# ⚡ Developer Vibes
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Cool+Things+🚀;Designing+Future+Interfaces+🎨;Exploring+AI+🤖;Creating+Experiences+⚡;Debugging+Reality+One+Line+At+A+Time"/>
-
-</div>
 
 # 🌍 Connect With Me
 
 <div align="center">
 
-| Asset | Channel | Signal |
-| :--- | :--- | :--- |
-| <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> **LinkedIn** | [Professional signals](https://www.linkedin.com/in/wahi-ur-rehman/) | `Open to Network` |
-| <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="20"/> **Email** | [Direct Transmission](mailto:wahiurrehman@example.com) | `Fast Response` |
-| <img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="20"/> **Portfolio** | [Visual Experience](https://ai-portfolio-seven-liart.vercel.app/) | `Live Nexus` |
+<a href="https://github.com/Wahi-ur-rehman">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/wahi-ur-rehman/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-
-
-# 💡 Favorite Dev Quote
-
-<div align="center">
-
-> ### “First, solve the problem. Then, write the code.” – John Johnson
-
-</div>
-
----
-
-# 🛸 Fun Facts About Me
-
-```javascript
-const wahi = {
-  pronouns: "He/Him",
-  askMeAbout: [
-    "Web Dev",
-    "AI",
-    "Tech",
-    "Startups",
-    "UI/UX"
-  ],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB", "Firebase"],
-    misc: ["Git", "Linux", "Figma"]
-  },
-  currentGoal: "Building awesome projects 🚀",
-  funFact: "I debug faster after coffee ☕"
-};
-
-
-# 🎯 2026 Goals
-
-- 🚀 Build impactful AI projects
-- 🌟 Contribute more to Open Source
-- 💻 Master Full Stack Development
-- ☁️ Learn Cloud + DevOps
-- 📱 Launch a SaaS Product
-
----
-
-# ☕ Support Me
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+<a href="https://ai-portfolio-seven-liart.vercel.app/">
+<img src="https://img.icons8.com/color/96/domain.png" width="48"/>
 </a>
 
 </div>
 
 ---
 
-# 👀 Hidden Easter Egg
+# 💡 Developer Philosophy
 
-```txt
-Dear Recruiter,
+<div align="center">
 
-If you reached this far,
-we're probably going to work together someday 🚀
+> ### “Great software should feel invisible, fast, and magical.”
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build impactful AI projects
+- 🌟 Contribute more to Open Source
+- ☁️ Master Cloud + DevOps
+- 💻 Build scalable SaaS products
+- 🎨 Create unforgettable UI experiences
+
+---
+
+# 👀 Hidden Developer Console
+
+```bash
+> initializing profile...
+
+✔ loading creativity
+✔ connecting caffeine supply
+✔ debugging reality
+✔ enabling futuristic UI
+✔ launching ideas...
+
+status: ONLINE 🚀
 ```
 
 ---
 
 <div align="center">
 
-# ⭐ Thanks For Visiting!
+# ⭐ Thanks For Visiting
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
