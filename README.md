@@ -5,7 +5,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=WAHI%20UR%20REHMAN&fontSize=50&fontAlignY=35&theme=tokyonight" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Wahi%20Ur%20Rehman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20.%20Create%20.%20Innovate&descAlignY=58"/>
 </p>
 
 <br>
@@ -35,12 +35,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Wahi%20Ur%20Rehman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20.%20Create%20.%20Innovate&descAlignY=58"/>
-
-</div>
 
 ---
 
