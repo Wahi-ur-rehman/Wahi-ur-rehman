@@ -27,47 +27,63 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Wahi Ur Rehman
 
+# 🌌 About The Developer
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+⚡;AI+Explorer+🤖;UI%2FUX+Enthusiast+🎨;Building+Cool+Stuff+For+The+Internet+🚀;Open+Source+Lover+💙" />
+<img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
 
+---
 
+<div align="center">
 
-## 🧠 Who Am I?
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Wahi Ur Rehman";
-    this.location = "Pakistan 🇵🇰";
-    this.role = "Full Stack Developer";
-    this.learning = [
-      "Artificial Intelligence",
-      "Cloud Computing",
-      "DevOps",
-      "System Design"
-    ];
-    this.hobbies = [
-      "Building Projects 🚀",
-      "Gaming 🎮",
-      "UI Experiments 🎨",
-      "Late Night Coding 🌙"
-    ];
-  }
+### ⚡ Turning ideas into immersive digital experiences
 
-  introduce() {
-    return "Turning ideas into digital reality ⚡";
-  }
-}
-
-const me = new Developer();
-
-console.log(me.introduce());
-```
+</div>
 
 <br>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+### 🚀 Currently Exploring
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- ⚙️ Advanced Backend Systems
+- 🎨 Futuristic UI/UX
+- 🚀 Scalable Web Apps
+
+### 🎯 Interests
+- 💻 Full Stack Development
+- 🧠 Tech Innovation
+- 🌌 Creative Interfaces
+- 🎮 Gaming & Experiments
+- 🔥 Building Cool Stuff
+
+</td>
+
+<td width="50%" align="left">
+
+### ☕ Daily Fuel
+- Coffee
+- Music
+- Late-night coding sessions
+
+### 🌙 Developer Personality
+- Loves clean UI
+- Obsessed with smooth animations
+- Enjoys solving impossible bugs
+- Always experimenting with new tech
+
+### 🛸 Fun Fact
+> Sometimes I fix bugs faster by staring at them dramatically.
+
+</td>
+</tr>
+</table>
 
 ## 🎯 Current Status
 
@@ -82,7 +98,6 @@ console.log(me.introduce());
 
 </div>
 
----
 
 ## 🌌 Philosophy
 
@@ -251,6 +266,48 @@ status: ONLINE 🚀
 </div>
 
 ---
+# 🎮 Mini Game — Catch The Bug 🐛
+
+<div align="center">
+
+## 🕹️ Your Mission
+
+A bug escaped production.  
+Can you catch it before users notice? 👀
+
+⬜ ⬜ ⬜ ⬜ ⬜  
+⬜ 🐛 ⬜ ⬜ ⬜  
+⬜ ⬜ ⬜ ⬜ ⬜  
+⬜ ⬜ ⬜ 💻 ⬜  
+⬜ ⬜ ⬜ ⬜ ⬜  
+
+### Choose Your Move
+
+| Action | Result |
+|---|---|
+| 🧹 Debug Carefully | 70% Success |
+| ☕ Drink Coffee First | +200 Coding Power |
+| 🚀 Push To Production | Dangerous Move ⚠️ |
+| 🔥 Blame The Backend | Classic Developer Strategy |
+
+---
+
+### 🎯 Hidden Achievement
+
+✅ You unlocked:  
+**"Professional Bug Hunter"**
+
+</div>
+
+---
+
+# ⚡ Developer Vibes
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Cool+Things+🚀;Designing+Future+Interfaces+🎨;Exploring+AI+🤖;Creating+Experiences+⚡;Debugging+Reality+One+Line+At+A+Time"/>
+
+</div>
 
 # 🌍 Connect With Me
 
@@ -297,9 +354,7 @@ const wahi = {
   currentGoal: "Building awesome projects 🚀",
   funFact: "I debug faster after coffee ☕"
 };
-```
 
----
 
 # 🎯 2026 Goals
 
