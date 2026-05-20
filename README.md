@@ -72,7 +72,7 @@ I build modern web experiences with clean UI, smooth interactions, and scalable 
 
 </div>
 
----
+
 
 # 📈 Contribution Activity
 
@@ -82,7 +82,6 @@ I build modern web experiences with clean UI, smooth interactions, and scalable 
 
 </div>
 
----
 
 # 🏆 Achievements
 
@@ -92,7 +91,7 @@ I build modern web experiences with clean UI, smooth interactions, and scalable 
 
 </div>
 
----
+
 
 # 🐍 Contribution Snake
 
@@ -102,7 +101,7 @@ I build modern web experiences with clean UI, smooth interactions, and scalable 
 
 </div>
 
----
+
 
 # 🎮 Interactive Developer Trials
 
@@ -114,7 +113,6 @@ I build modern web experiences with clean UI, smooth interactions, and scalable 
 
 </div>
 
----
 
 <div align="center">
 
@@ -127,7 +125,6 @@ I build modern web experiences with clean UI, smooth interactions, and scalable 
 
 </div>
 
----
 
 <div id="terminal-01">
 
@@ -150,7 +147,6 @@ I build modern web experiences with clean UI, smooth interactions, and scalable 
 
 </div>
 
----
 
 <div id="win-1">
 
@@ -170,7 +166,6 @@ git commit -m "fixed everything somehow"
 
 <img width="220" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
----
 
 </div>
 
@@ -189,7 +184,6 @@ Sleep Schedule: GONE
 
 <img width="220" src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif"/>
 
----
 
 </div>
 
@@ -204,11 +198,10 @@ Sleep Schedule: GONE
 ### Achievement:
 **"Caffeine Driven Developer"**
 
----
 
 </div>
 
----
+
 
 <div id="terminal-02">
 
@@ -231,7 +224,6 @@ Sleep Schedule: GONE
 
 </div>
 
----
 
 <div id="cry">
 
@@ -252,7 +244,6 @@ Sleep Schedule: GONE
 + Entire app rewritten
 ```
 
----
 
 </div>
 
@@ -267,11 +258,11 @@ display: sanity;
 ### 🎉 Secret Badge:
 **"CSS Survivor"**
 
----
+
 
 </div>
 
----
+
 
 <div id="terminal-03">
 
@@ -292,7 +283,6 @@ display: sanity;
 
 </div>
 
----
 
 <div id="run">
 
@@ -317,8 +307,6 @@ display: sanity;
 ### 🛸 Easter Egg:
 **"Guardian of Databases"**
 
----
-
 </div>
 
 <div id="feature">
@@ -327,11 +315,11 @@ display: sanity;
 
 > "Data loss increases minimalism."
 
----
+
 
 </div>
 
----
+
 
 <div id="terminal-04">
 
@@ -359,8 +347,6 @@ display: sanity;
 
 > Recruiter left after 12 seconds.
 
----
-
 </div>
 
 <div id="legendary">
@@ -378,7 +364,6 @@ display: sanity;
 
 <img width="250" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
----
 
 </div>
 
@@ -396,7 +381,6 @@ display: sanity;
 
 </div>
 
----
 
 # 🎵 Coding Vibes
 
@@ -426,7 +410,7 @@ display: sanity;
 
 </div>
 
----
+
 
 # 💡 Developer Philosophy
 
@@ -436,7 +420,6 @@ display: sanity;
 
 </div>
 
----
 
 # 🎯 2026 Goals
 
@@ -445,8 +428,6 @@ display: sanity;
 - ☁️ Master Cloud + DevOps
 - 💻 Build scalable SaaS products
 - 🎨 Create unforgettable UI experiences
-
----
 
 # 👀 Hidden Developer Console
 
@@ -460,7 +441,7 @@ display: sanity;
 ✔ launching ideas...
 
 status: ONLINE 🚀
-```
+
 
 ---
 
