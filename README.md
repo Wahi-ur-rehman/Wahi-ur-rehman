@@ -219,13 +219,10 @@ status: ONLINE 🚀
 
 # 🐍 Snake Eating My Contributions
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 🎮 Fun Zone
 
@@ -259,29 +256,15 @@ status: ONLINE 🚀
 
 <div align="center">
 
-<a href="https://github.com/Wahi-ur-rehman">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=discord" />
-</a>
+| Asset | Channel | Signal |
+| :--- | :--- | :--- |
+| <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> **LinkedIn** | [Professional signals](https://www.linkedin.com/in/wahi-ur-rehman/) | `Open to Network` |
+| <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="20"/> **Email** | [Direct Transmission](mailto:wahiurrehman@example.com) | `Fast Response` |
+| <img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="20"/> **Portfolio** | [Visual Experience](https://ai-portfolio-seven-liart.vercel.app/) | `Live Nexus` |
 
 </div>
 
----
+
 
 # 💡 Favorite Dev Quote
 
