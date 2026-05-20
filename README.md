@@ -6,7 +6,9 @@
 
 # ⚡ Wahi Ur Rehman ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Explorer+🤖;Creative+Problem+Solver;Building+Cool+Things+For+The+Internet+⚡;Future+Tech+Entrepreneur+🚀" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=WAHI%20UR%20REHMAN&fontSize=50&fontAlignY=35&theme=tokyonight" />
+</p>
 
 <br>
 
