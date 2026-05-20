@@ -104,36 +104,69 @@ I build modern web experiences with clean UI, smooth interactions, and scalable 
 
 ---
 
-# 🎮 Interactive Mini Game — Find The Safe Deploy 🚀
+# 🎮 Interactive Developer Challenge
 
 <div align="center">
 
-## 🕹️ Rules
+## 🚀 Save Production From Disaster
 
-Only ONE deploy button is safe.  
-Choose wisely.
+A mysterious bug escaped into production.  
+Only one decision saves the app.
 
-| Deploy Option | Result |
-|---|---|
-| [🚀 Deploy A](#fail) | ❓ |
-| [🚀 Deploy B](#winner) | ❓ |
-| [🚀 Deploy C](#fail) | ❓ |
+### 🧠 Choose Carefully...
 
 </div>
 
 ---
 
-<div id="winner">
+<table align="center">
+<tr>
+<td align="center">
 
-# 🏆 DEPLOY SUCCESSFUL
+## 🚀 Option A
 
-<div align="center">
+<details>
+<summary><b>Deploy Without Testing</b></summary>
 
-## ✅ Production survived.
+<br>
 
-### 🎉 Easter Egg Unlocked:
+# 💀 SYSTEM FAILURE
 
-```txt
+```diff
+- Production has stopped responding
+- 17 users are crying
+- Backend engineer disappeared
+```
+
+### ☕ Achievement Unlocked:
+**"Speed Over Stability"**
+
+<img width="250" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"/>
+
+</details>
+
+</td>
+
+<td align="center">
+
+## 🚀 Option B
+
+<details>
+<summary><b>Debug Carefully Before Deploy</b></summary>
+
+<br>
+
+# 🏆 SUCCESS
+
+```diff
++ Bugs eliminated
++ Users are happy
++ Production survived
+```
+
+## 🎉 Secret Easter Egg
+
+```bash
 while(alive){
    eat();
    sleep();
@@ -142,34 +175,65 @@ while(alive){
 }
 ```
 
-### 🚀 Secret Achievement:
-"Bug Destroyer Level 99"
+### 🛸 Hidden Badge:
+**"Bug Destroyer Level 99"**
 
 <img width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-</div>
+</details>
 
-</div>
+</td>
+
+<td align="center">
+
+## 🚀 Option C
+
+<details>
+<summary><b>Push On Friday Night</b></summary>
+
+<br>
+
+# 🔥 CRITICAL ERROR
+
+```yaml
+Status: CHAOS
+Coffee Level: MAXIMUM
+Sleep Schedule: DESTROYED
+```
+
+### 😂 Fun Fact:
+The bug is now considered a feature.
+
+<img width="250" src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif"/>
+
+</details>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div id="fail">
-
-# 💀 Production Crashed
-
 <div align="center">
 
-### ❌ Congratulations.
+## 🎯 BONUS ROUND
 
-You deployed on Friday evening.
+<details>
+<summary><b>Open Mystery Box 🎁</b></summary>
 
-### ☕ The bugs are now part of the architecture.
+<br>
 
-### 🔥 Your teammates are typing...
+### 👀 Hidden Developer Truth
 
-<img width="250" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"/>
+> 90% of programming is:
+>
+> wondering why it doesn't work  
+> then wondering why it suddenly does.
 
-</div>
+### ⚡ Ultra Rare Achievement:
+**"Senior Developer Energy"**
+
+</details>
 
 </div>
 
