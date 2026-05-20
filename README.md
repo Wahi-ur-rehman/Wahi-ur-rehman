@@ -68,17 +68,6 @@ console.log(me.introduce());
 
 <br>
 
----
-
-## ⚡ Developer Energy
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wahi-ur-rehman&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🎯 Current Status
 
