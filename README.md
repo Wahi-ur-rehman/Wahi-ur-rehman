@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# ⚡ Wahi Ur Rehman ⚡
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=WAHI%20UR%20REHMAN&fontSize=50&fontAlignY=35&theme=tokyonight" />
 </p>
@@ -24,26 +22,74 @@
 
 # 🌌 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<div align="left">
 
 ```yaml
-Name: Wahi Ur Rehman
-Role: Full Stack Developer
-Location: Pakistan 🇵🇰
-Focus:
-  - Web Development
-  - Artificial Intelligence
-  - UI/UX Design
-  - Open Source
-Currently Learning:
-  - Advanced Backend
-  - Cloud Computing
-  - DevOps
-Life Motto:
-  "Code. Create. Innovate."
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👨‍💻 Name: Wahi Ur Rehman
+🚀 Role: Full Stack Developer
+🌍 Based In: Pakistan 🇵🇰
+⚡ Passion: Turning ideas into reality
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Current Mission:
+  → Building modern web experiences
+  → Exploring Artificial Intelligence
+  → Designing futuristic UIs
+  → Creating impactful projects
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 Currently Mastering:
+  ✔ Advanced Backend Architecture
+  ✔ Cloud & DevOps ☁️
+  ✔ Scalable Systems ⚙️
+  ✔ AI-Powered Applications 🤖
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Developer Mindset:
+  "I don't just build websites.
+   I build experiences people remember."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+☕ Status:
+  Debugging life one commit at a time...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+</div>
+
 <br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Code+.+Create+.+Innovate+⚡;Building+The+Future+One+Project+At+A+Time+🚀;AI+Enthusiast+🤖;Open+Source+Lover+💙;Always+Learning+Something+New+🌱"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Quick Facts
+
+| 🧠 Trait | 🚀 Details |
+|---|---|
+| 💻 Favorite Stack | MERN + Next.js |
+| 🎨 Design Style | Clean + Futuristic |
+| 🌙 Coding Time | Late Night Productivity |
+| ☕ Fuel | Coffee + Music |
+| 🎮 Fun Side | Gaming & Tech Exploration |
+| 🔥 Dream | Build something legendary |
+
+</div>
 
 ---
 
