@@ -104,124 +104,283 @@ I build modern web experiences with clean UI, smooth interactions, and scalable 
 
 ---
 
-# 🎮 Interactive Developer Challenge
+# 🎮 Interactive Developer Trials
 
 <div align="center">
 
-## 🚀 Save Production From Disaster
+## 🧠 Every visitor gets a different challenge...
 
-A mysterious bug escaped into production.  
-Only one decision saves the app.
-
-### 🧠 Choose Carefully...
+### Choose a mysterious terminal:
 
 </div>
 
 ---
 
-<table align="center">
-<tr>
-<td align="center">
+<div align="center">
 
-## 🚀 Option A
+| Terminal | Access |
+|---|---|
+| 🟦 Terminal 01 | [OPEN](#terminal-01) |
+| 🟪 Terminal 02 | [OPEN](#terminal-02) |
+| 🟥 Terminal 03 | [OPEN](#terminal-03) |
+| 🟩 Terminal 04 | [OPEN](#terminal-04) |
+
+</div>
+
+---
+
+<div id="terminal-01">
+
+# 🟦 Terminal 01 — Production Crisis
 
 <details>
-<summary><b>Deploy Without Testing</b></summary>
+<summary><b>⚡ A bug appears 2 minutes before deployment...</b></summary>
 
 <br>
 
-# 💀 SYSTEM FAILURE
+## What do you do?
 
-```diff
-- Production has stopped responding
-- 17 users are crying
-- Backend engineer disappeared
-```
-
-### ☕ Achievement Unlocked:
-**"Speed Over Stability"**
-
-<img width="250" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"/>
+| Choice | Outcome |
+|---|---|
+| 🚀 Deploy anyway | [Reveal](#fail-1) |
+| 🧪 Test everything first | [Reveal](#win-1) |
+| ☕ Drink coffee | [Reveal](#coffee-1) |
 
 </details>
 
-</td>
+</div>
 
-<td align="center">
+---
 
-## 🚀 Option B
-
-<details>
-<summary><b>Debug Carefully Before Deploy</b></summary>
-
-<br>
+<div id="win-1">
 
 # 🏆 SUCCESS
 
 ```diff
-+ Bugs eliminated
++ Deployment successful
 + Users are happy
-+ Production survived
++ CEO stopped panicking
 ```
 
-## 🎉 Secret Easter Egg
+### 🎉 Easter Egg Unlocked
 
 ```bash
-while(alive){
-   eat();
-   sleep();
-   code();
-   repeat();
-}
+git commit -m "fixed everything somehow"
 ```
 
-### 🛸 Hidden Badge:
-**"Bug Destroyer Level 99"**
-
-<img width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
-</details>
-
-</td>
-
-<td align="center">
-
-## 🚀 Option C
-
-<details>
-<summary><b>Push On Friday Night</b></summary>
-
-<br>
-
-# 🔥 CRITICAL ERROR
-
-```yaml
-Status: CHAOS
-Coffee Level: MAXIMUM
-Sleep Schedule: DESTROYED
-```
-
-### 😂 Fun Fact:
-The bug is now considered a feature.
-
-<img width="250" src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif"/>
-
-</details>
-
-</td>
-</tr>
-</table>
+<img width="220" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 ---
 
-<div align="center">
+</div>
 
-## 🎯 BONUS ROUND
+<div id="fail-1">
+
+# 💀 CRITICAL FAILURE
+
+```yaml
+Server Status: EXPLODED
+Sleep Schedule: GONE
+```
+
+### 😂 Fun Reply
+
+> "Bold strategy. Production hated it."
+
+<img width="220" src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif"/>
+
+---
+
+</div>
+
+<div id="coffee-1">
+
+# ☕ COFFEE POWER ACTIVATED
+
+```diff
++ Debugging speed increased by 300%
+```
+
+### Achievement:
+**"Caffeine Driven Developer"**
+
+---
+
+</div>
+
+---
+
+<div id="terminal-02">
+
+# 🟪 Terminal 02 — CSS Nightmare
 
 <details>
-<summary><b>Open Mystery Box 🎁</b></summary>
+<summary><b>🎨 Your UI breaks only on Safari...</b></summary>
 
 <br>
+
+## Choose wisely:
+
+| Choice | Outcome |
+|---|---|
+| 😭 Cry | [Reveal](#cry) |
+| 🔥 Rewrite entire project | [Reveal](#rewrite) |
+| 🛠 Debug calmly | [Reveal](#calm) |
+
+</details>
+
+</div>
+
+---
+
+<div id="cry">
+
+# 😭 FRONTEND DEPRESSION
+
+> "Have you tried turning Safari off permanently?"
+
+---
+
+</div>
+
+<div id="rewrite">
+
+# 🔥 OVERENGINEERING DETECTED
+
+```diff
+- Original bug still exists
++ Entire app rewritten
+```
+
+---
+
+</div>
+
+<div id="calm">
+
+# 🏆 UI SAVED
+
+```css
+display: sanity;
+```
+
+### 🎉 Secret Badge:
+**"CSS Survivor"**
+
+---
+
+</div>
+
+---
+
+<div id="terminal-03">
+
+# 🟥 Terminal 03 — Database Panic
+
+<details>
+<summary><b>🛢 You accidentally deleted production data...</b></summary>
+
+<br>
+
+| Choice | Outcome |
+|---|---|
+| 🏃 Disappear forever | [Reveal](#run) |
+| ♻ Restore backup | [Reveal](#backup) |
+| 🤡 Pretend it's a feature | [Reveal](#feature) |
+
+</details>
+
+</div>
+
+---
+
+<div id="run">
+
+# 🏃 GONE
+
+> LinkedIn status updated:
+> "Open to work."
+
+---
+
+</div>
+
+<div id="backup">
+
+# 🏆 HERO MODE
+
+```diff
++ Backup restored
++ Team respects you again
+```
+
+### 🛸 Easter Egg:
+**"Guardian of Databases"**
+
+---
+
+</div>
+
+<div id="feature">
+
+# 🤡 CLASSIC DEVELOPER MOVE
+
+> "Data loss increases minimalism."
+
+---
+
+</div>
+
+---
+
+<div id="terminal-04">
+
+# 🟩 Terminal 04 — The Final Boss
+
+<details>
+<summary><b>👀 A recruiter opens your GitHub...</b></summary>
+
+<br>
+
+| Choice | Outcome |
+|---|---|
+| 📂 Show boring repos | [Reveal](#boring) |
+| ✨ Show this README | [Reveal](#legendary) |
+
+</details>
+
+</div>
+
+---
+
+<div id="boring">
+
+# 😴 MISSED OPPORTUNITY
+
+> Recruiter left after 12 seconds.
+
+---
+
+</div>
+
+<div id="legendary">
+
+# 🚀 LEGENDARY PROFILE DETECTED
+
+```diff
++ Creativity found
++ Strong developer branding
++ Recruiter impressed
+```
+
+### 👑 Ultimate Achievement:
+# "MAIN CHARACTER ENERGY"
+
+<img width="250" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
+---
+
+</div>
 
 ### 👀 Hidden Developer Truth
 
