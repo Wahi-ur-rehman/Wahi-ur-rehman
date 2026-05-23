@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/Open%20To%20Work-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Open To Work"/>
 
 </div>
----
+
+--
 
 
 ## &nbsp;`> whoami`
