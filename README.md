@@ -24,33 +24,26 @@
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="AI brain gif"/>
 
 ## &nbsp;`> whoami`
 
-```typescript
-const developer = {
-  name     : "Wahi Ur Rehman",
-  title    : "AI Engineer & Full Stack Developer",
-  location : "Pakistan 🇵🇰  →  Remote Worldwide",
-  focus    : [
-    "AI Systems & LLM Integration",
-    "Algorithmic Trading & Automation",
-    "3D Web Experiences",
-    "Production-Grade Engineering",
-  ],
-  principle: "Build things that keep running when you're not watching.",
-};
-```
+I'm **Wahi Ur Rehman** — an AI Engineer and Full Stack Developer based in Pakistan, building for the world remotely.
+
+I specialise in turning complex ideas into production systems that actually work — from ML-powered trading bots running live on real markets, to AI memory companions, to immersive 3D web experiences.
+
+My obsession is the gap between *demo* and *deployed*. I care about reliability, clean architecture, and shipping things that keep running when no one is watching.
+
+Currently building **MNEMO**, an AI memory companion that surfaces the right thought at the right moment — and hardening **ApexScalp**, a live algorithmic trading system on MetaTrader 5.
+
+📍 &nbsp;Rawalpindi, Pakistan &nbsp;→&nbsp; Open to remote worldwide
 
 <br clear="right"/>
-
----
 
 ## &nbsp;🔥 &nbsp;What I'm Building Right Now
 
 ```bash
-$ mnemo status --verbose
+$ status --verbose
 
   ██████████░░  83%  →  MNEMO AI Memory App     [Cloud Run · Supabase · Claude API]
   ███████░░░░░  62%  →  ApexScalp Trading Bot   [Live MT5 · LightGBM · Signal Engine]
@@ -253,25 +246,17 @@ If you're building something ambitious — **let's talk.**
 
 <br/>
 
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:your@email.com" title="Send me an email">
+  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/wahi-ur-rehman/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/wahi-ur-rehman/" title="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://ai-portfolio-seven-liart.vercel.app/">
-  <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+&nbsp;
+<a href="https://ai-portfolio-seven-liart.vercel.app/" title="View my Portfolio">
+  <img src="https://img.shields.io/badge/-6E40C9?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
-
-<br/><br/>
-
-| Channel | Link | Response Time |
-|:---:|:---:|:---:|
-| 📧 Email | [your@email.com](mailto:your@email.com) | Within 24 hours |
-| 💼 LinkedIn | [wahi-ur-rehman](https://www.linkedin.com/in/wahi-ur-rehman/) | Same day |
-| 🌐 Portfolio | [Live →](https://ai-portfolio-seven-liart.vercel.app/) | Always on |
 
 </div>
 
