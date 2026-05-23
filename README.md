@@ -227,7 +227,11 @@ CI/CD · Git
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -246,16 +250,16 @@ If you're building something ambitious — **let's talk.**
 
 <br/>
 
-<a href="mailto:your@email.com" title="Send me an email">
-  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:your@email.com">
+  <img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/wahi-ur-rehman/" title="Connect on LinkedIn">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/wahi-ur-rehman/">
+  <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
-<a href="https://ai-portfolio-seven-liart.vercel.app/" title="View my Portfolio">
-  <img src="https://img.shields.io/badge/-6E40C9?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+&nbsp;&nbsp;
+<a href="https://ai-portfolio-seven-liart.vercel.app/">
+  <img height="35" src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
