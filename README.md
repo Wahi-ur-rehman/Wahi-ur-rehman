@@ -270,9 +270,9 @@ If you're building something ambitious — **let's talk.**
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
 
-<br/>
+<br/><br/>
 
-*"I don't just write code — I build systems that keep running when I'm not watching."*
+[![Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=1DAEEB&author_color=8899AA)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
 
