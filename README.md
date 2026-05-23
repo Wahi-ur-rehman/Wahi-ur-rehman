@@ -22,12 +22,11 @@
 
 </div>
 
----
+
 
 <img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="AI brain gif"/>
 
 ## &nbsp;`> whoami`
-
 I'm **Wahi Ur Rehman** — an AI Engineer and Full Stack Developer based in Pakistan, building for the world remotely.
 
 I specialise in turning complex ideas into production systems that actually work — from ML-powered trading bots running live on real markets, to AI memory companions, to immersive 3D web experiences.
