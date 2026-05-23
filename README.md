@@ -1,83 +1,149 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFBB,100:8A2BE2&height=220&section=header&text=Wahi%20Ur%20Rehman&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Automation%20Specialist%20%7C%20Full%20Stack%20Engineer&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0F1E,30:0D2137,60:0A3D62,100:1A5276&height=280&section=header&text=Wahi%20Ur%20Rehman&fontSize=62&fontColor=E8F4FD&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=17&fontAlign=50&stroke=1DAEEB&strokeWidth=1"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFBB&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+ship+to+production;Trading+bots+%7C+3D+Interfaces+%7C+Automation;Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%86%92+Remote+Roles+Worldwide;Currently+open+to+work)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=800&color=1DAEEB&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Building+AI+systems+that+ship+to+production+%F0%9F%9A%80;ML+Trading+Bots+%7C+3D+Interfaces+%7C+Intelligent+Automation;Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%86%92+Engineering+for+the+World;Currently+open+to+remote+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Wahi-ur-rehman&label=Profile+Views&color=00FFBB&style=for-the-badge)](https://github.com/Wahi-ur-rehman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahi-ur-rehman/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FFBB?style=for-the-badge&logo=vercel&logoColor=black)](https://ai-portfolio-seven-liart.vercel.app/)
-[![Open To Work](https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:your@email.com)
+<a href="https://github.com/Wahi-ur-rehman"><img src="https://komarev.com/ghpvc/?username=Wahi-ur-rehman&label=Profile+Views&color=1DAEEB&style=flat-square" alt="Profile Views"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/wahi-ur-rehman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://ai-portfolio-seven-liart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+&nbsp;
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Open To Work"/>
 
 </div>
 
 ---
 
-## `> whoami`
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-```python
-developer = {
-    "name"     : "Wahi Ur Rehman",
-    "focus"    : ["AI Systems", "Automation", "Full Stack Engineering"],
-    "location" : "Pakistan 🇵🇰  →  Remote Worldwide",
-    "building" : "Things that actually work in production",
-    "contact"  : "your@email.com"
-}
+## &nbsp;`> whoami`
+
+```typescript
+const developer = {
+  name     : "Wahi Ur Rehman",
+  title    : "AI Engineer & Full Stack Developer",
+  location : "Pakistan 🇵🇰  →  Remote Worldwide",
+  focus    : [
+    "AI Systems & LLM Integration",
+    "Algorithmic Trading & Automation",
+    "3D Web Experiences",
+    "Production-Grade Engineering",
+  ],
+  principle: "Build things that keep running when you're not watching.",
+};
 ```
 
-I write code that thinks, moves, and scales. From ML-powered trading bots running live on MetaTrader 5, to 3D web experiences built in Three.js — I care about shipping real products, not just demos.
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+## &nbsp;🔥 &nbsp;What I'm Building Right Now
 
-<table>
+```bash
+$ mnemo status --verbose
+
+  ██████████░░  83%  →  MNEMO AI Memory App     [Cloud Run · Supabase · Claude API]
+  ███████░░░░░  62%  →  ApexScalp Trading Bot   [Live MT5 · LightGBM · Signal Engine]
+  █████░░░░░░░  44%  →  AWS Production Hardening [Docker · ECS · CI/CD Pipelines]
+  ███░░░░░░░░░  28%  →  Open Source Contributions [First PRs in progress]
+```
+
+---
+
+## &nbsp;🚀 &nbsp;Featured Projects
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 ApexScalp AI
-Algorithmic trading bot with ML-driven signal detection. Live on MetaTrader 5 in real market conditions.
+<div align="center">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="60" height="60"/>
+</div>
 
-**Stack:** `Python` `LightGBM` `MetaTrader5` `Pandas`
+### &nbsp;⚡ ApexScalp AI
+> Algorithmic trading system with ML-driven signal detection running live in real market conditions.
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github)](https://github.com/Wahi-ur-rehman/bot)
-![Status](https://img.shields.io/badge/LIVE-OPERATIONAL-success?style=flat-square)
+**What it does:**
+- Real-time OHLCV feature engineering
+- LightGBM classification for trade signals
+- Live execution on MetaTrader 5
+- Risk management & drawdown protection
+
+`Python` `LightGBM` `MetaTrader5` `Pandas` `NumPy`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wahi-ur-rehman/bot)&nbsp;![Status](https://img.shields.io/badge/●%20LIVE-00C851?style=flat-square)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌌 3D AI Portfolio
-Immersive portfolio with Three.js R3F rendering, Framer Motion transitions, and dark-mode terminal aesthetic.
+<div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60" height="60"/>
+</div>
 
-**Stack:** `Three.js` `TypeScript` `React 19` `Tailwind`
+### &nbsp;🧠 MNEMO — AI Memory App
+> Context-aware AI companion that captures your thoughts and surfaces them at the exact moment you need them.
 
-[![Live](https://img.shields.io/badge/View_Live-00FFBB?style=for-the-badge&logo=vercel&logoColor=black)](https://ai-portfolio-seven-liart.vercel.app/)
-![Status](https://img.shields.io/badge/LIVE-SYNCED-blue?style=flat-square)
+**What it does:**
+- Voice & text memory capture
+- Location + contact triggered surfacing
+- Conversational AI search (Claude API)
+- Offline-first with Supabase sync
+
+`React` `TypeScript` `Supabase` `Claude API` `Cloud Run`
+
+[![Live](https://img.shields.io/badge/View_Live-1DAEEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mnemo-627678856506.asia-southeast1.run.app/)&nbsp;![Status](https://img.shields.io/badge/●%20DEPLOYED-1DAEEB?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍎 FreshPlan AI
-Smart food inventory tracker that monitors expiry dates and suggests recipes before food goes to waste.
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60" height="60"/>
+</div>
 
-**Stack:** `Vite` `Firebase` `TypeScript` `Google Gemini`
+### &nbsp;🌌 3D AI Portfolio
+> Immersive personal portfolio with Three.js R3F, Framer Motion transitions, and a dark terminal aesthetic.
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github)](https://github.com/Wahi-ur-rehman/FreshPlan)
-![Status](https://img.shields.io/badge/SYNC-IN_PROGRESS-yellow?style=flat-square)
+**What it does:**
+- Real-time 3D WebGL rendering
+- Framer Motion page transitions
+- Terminal-style interactive UI
+- Performance-optimized for all devices
+
+`Three.js R3F` `React 19` `TypeScript` `Tailwind` `Framer Motion`
+
+[![Live](https://img.shields.io/badge/View_Live-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-portfolio-seven-liart.vercel.app/)&nbsp;![Status](https://img.shields.io/badge/●%20LIVE-7B2FBE?style=flat-square)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ What's Next?
-Currently architecting a new project — details coming soon.
+<div align="center">
+<img src="https://media.giphy.com/media/W9WSk4tEU1aJW/giphy.gif" width="60" height="60"/>
+</div>
 
-Want to collaborate or see what I'm thinking?
+### &nbsp;🍎 FreshPlan AI
+> Smart food inventory system that tracks expiry dates and generates AI recipe suggestions before food goes to waste.
 
-[![Contact](https://img.shields.io/badge/Let's_Talk-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+**What it does:**
+- Computer vision expiry date detection
+- Gemini-powered recipe generation
+- Real-time inventory management
+- Push notifications for expiry alerts
+
+`Vite` `Firebase` `TypeScript` `Google Gemini` `PWA`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wahi-ur-rehman/FreshPlan)&nbsp;![Status](https://img.shields.io/badge/●%20IN_PROGRESS-F39C12?style=flat-square)
 
 </td>
 </tr>
@@ -85,81 +151,142 @@ Want to collaborate or see what I'm thinking?
 
 ---
 
-## 🛠 Core Stack
+## &nbsp;🛠 &nbsp;Technical Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,py,js,react,nextjs,threejs,tailwind,nodejs,firebase,docker,aws,git&perline=6"/>
-
-</div>
-
-<br/>
-
-```
-Languages      →   TypeScript · Python · JavaScript
-Frontend       →   React 19 · Next.js · Three.js (R3F) · Tailwind · Framer Motion
-Backend        →   Node.js · Express · Firebase
-AI / ML        →   Google Gemini · OpenAI · LightGBM · Python 3.11
-Infrastructure →   Docker · AWS · MetaTrader 5 · Git
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wahi-ur-rehman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahi-ur-rehman&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahi-ur-rehman&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Pulse
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-## 🎯 What I'm Working On Now
-
-```bash
-[▓▓▓▓▓▓▓▓░░]  80%  →  ApexScalp AI  — improving feature engineering & signal accuracy
-[▓▓▓▓▓░░░░░]  50%  →  AWS + Docker  — hardening production pipelines
-[▓▓░░░░░░░░]  20%  →  Open Source   — first contributions in progress
-```
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-| | Channel | Response |
-|---|---|---|
-| 📧 | [your@email.com](mailto:your@email.com) | Within 24h |
-| 💼 | [linkedin.com/in/wahi-ur-rehman](https://www.linkedin.com/in/wahi-ur-rehman/) | Open to network |
-| 🌐 | [Portfolio — Live](https://ai-portfolio-seven-liart.vercel.app/) | Always on |
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40"/>
 
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=ts,py,js,react,nextjs,threejs,tailwind,nodejs&perline=8&theme=dark"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=supabase,firebase,docker,aws,git,vite,express,figma&perline=8&theme=dark"/>
+</div>
 
-> *"I don't just write code — I build systems that keep running when I'm not watching."*
+<br/>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🧠 &nbsp;AI / ML**
+```
+Claude API (Anthropic)
+Google Gemini
+OpenAI GPT-4
+LightGBM · Scikit-learn
+Python 3.11 · Pandas
+```
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ &nbsp;Frontend**
+```
+React 19 · Next.js 14
+Three.js · React Three Fiber
+Framer Motion · GSAP
+Tailwind CSS · TypeScript
+Vite · PWA
+```
+
+</td>
+<td width="33%" valign="top">
+
+**🔧 &nbsp;Backend & Infra**
+```
+Node.js · Express · Fastify
+Supabase · Firebase
+Docker · AWS · Cloud Run
+MetaTrader 5 API
+CI/CD · Git
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## &nbsp;📊 &nbsp;GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wahi-ur-rehman&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=1DAEEB&icon_color=1DAEEB&text_color=C9D1D9&border_radius=10"/>
+&nbsp;
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahi-ur-rehman&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1DAEEB&fire=FF6B6B&currStreakLabel=1DAEEB&border_radius=10"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFBB,100:0D1117&height=120&section=footer"/>
+<br/>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wahi-ur-rehman&theme=react-dark&hide_border=true&area=true&area_color=1DAEEB&line=1DAEEB&point=FFFFFF&bg_color=0D1117&color=C9D1D9"/>
+</div>
+
+---
+
+## &nbsp;🐍 &nbsp;Contribution Grid
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Wahi-ur-rehman/Wahi-ur-rehman/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## &nbsp;📬 &nbsp;Let's Build Something
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
+
+<br/><br/>
+
+I'm always open to interesting problems, remote roles, and collaborations.
+If you're building something ambitious — **let's talk.**
+
+<br/>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/wahi-ur-rehman/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://ai-portfolio-seven-liart.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+| Channel | Link | Response Time |
+|:---:|:---:|:---:|
+| 📧 Email | [your@email.com](mailto:your@email.com) | Within 24 hours |
+| 💼 LinkedIn | [wahi-ur-rehman](https://www.linkedin.com/in/wahi-ur-rehman/) | Same day |
+| 🌐 Portfolio | [Live →](https://ai-portfolio-seven-liart.vercel.app/) | Always on |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
+
+<br/>
+
+*"I don't just write code — I build systems that keep running when I'm not watching."*
+
+<br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3D62,50:0D2137,100:0A0F1E&height=120&section=footer"/>
