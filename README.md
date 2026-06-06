@@ -14,7 +14,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/wahi-ur-rehman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://ai-portfolio-seven-liart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://portfolio-ten-puce-79.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 &nbsp;
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
@@ -258,7 +258,7 @@ If you're building something ambitious — **let's talk.**
   <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://ai-portfolio-seven-liart.vercel.app/">
+<a href="https://portfolio-ten-puce-79.vercel.app/">
   <img height="35" src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
 </a>
 
